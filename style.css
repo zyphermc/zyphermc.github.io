@@ -20,6 +20,10 @@ body {
     cursor: pointer;
 }
 
+.menu a {
+    color: rgb(160, 160, 160);
+}
+
 .logo img {
     width: 70px;
     height: 70px;
